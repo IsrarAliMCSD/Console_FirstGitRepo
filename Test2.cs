@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitFirstApp
 {
-    internal class Test
+    public class Test2
     {
-        public int MyProperty { get; set; }
-        public int MyProperty2 { get; set; }
+        public int TestsId { get; set; }
     }
 }
